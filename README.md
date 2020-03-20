@@ -21,6 +21,7 @@ The primary motive was to enhance my programming skills in C# and Object-Orienta
 :black_small_square: Unity --version 2019.3.6+
 :black_small_square: Microsoft Visual Studios 2019 Community --version 16.5+
 :black_small_square: Visual Studio Code 1.43.1+
+:black_small_square: itch.io
 
 #### Program Anatomy
 * Basically I implemented an MVC, however with game development everything had to be compartmentalized. Fonts, Scripts, Objects all had to be categorized in particular folders. Refer to image.
@@ -32,9 +33,10 @@ The primary motive was to enhance my programming skills in C# and Object-Orienta
 
 **Micah Andres** - [mandres2](https://github.com/mandres2)
 
-
 ## License
 
 <b>This project is licensed under the MIT License</b>
 
 ## Application Log
+
+v 1.0.0 - Uploaded and adjustments to file organizations and README.md
