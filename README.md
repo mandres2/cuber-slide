@@ -4,10 +4,11 @@
 
 * Minimalistic game made using Unity Game Engine
 * Language: C#
+* Web Deployment: JavaScript/CSS/HTML
 
 ### Motive
 
-The primary motive was to enhance my programming skills in C# and Object-Orientation. Since most games mostly derive from Unity and Unreal Engine, I wanted to understand how programming a simple game would work within the Unity environment. Learning the concepts of working the Unity Software, as well as learning the C# syntax as well as conducting basic mathematics were all crucial elements I gained after developing this simplistic game.
+The primary motive was to enhance my programming skills in C# and Object-Orientation. Since most games mostly derive from Unity and Unreal Engine, I wanted to understand how programming a simple game would work within the Unity environment. Learning the concepts of working the Unity game engine, as well understanding the C# syntax and logic were all crucial elements gained after developing Cuber Slider.
 
 ### Demo
 
@@ -35,3 +36,5 @@ The primary motive was to enhance my programming skills in C# and Object-Orienta
 ## License
 
 <b>This project is licensed under the MIT License</b>
+
+## Application Log
