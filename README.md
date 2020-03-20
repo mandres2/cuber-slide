@@ -11,6 +11,8 @@ The primary motive was to enhance my programming skills in C# and Object-Orienta
 
 ### Demo
 
+* 3 Levels Currently Established in the Game
+
 ![alt text](https://github.com/mandres2/cuber-slide/blob/master/assets/img/demo.gif?raw=true)
 
 #### Pre-Requisites
