@@ -11,7 +11,7 @@ The primary motive was to enhance my programming skills in C# and Object-Orienta
 
 ### Demo
 
-![alt text]()
+![alt text](https://github.com/mandres2/cuber-slide/blob/master/assets/img/demo.gif?raw=true)
 
 #### Pre-Requisites
 
