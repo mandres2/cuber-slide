@@ -19,8 +19,11 @@ The primary motive was to enhance my programming skills in C# and Object-Orienta
 #### Pre-Requisites
 
 :black_small_square: Unity --version 2019.3.6+
+<br>
 :black_small_square: Microsoft Visual Studios 2019 Community --version 16.5+
+<br>
 :black_small_square: Visual Studio Code 1.43.1+
+<br>
 :black_small_square: itch.io
 
 #### Program Anatomy
